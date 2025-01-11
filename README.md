@@ -9,4 +9,4 @@ A list of simple python projects which anyone can do and understand easily
 
 2- Word guessing game in python 
 
-3_ Hangman game in python 
+3- Hangman game in python 
