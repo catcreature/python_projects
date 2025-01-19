@@ -26,5 +26,3 @@ def top_stories():
 	rss = load_rss()
 	news_items = parse_xml(rss)
 	return news_items
-
-top_stories()
