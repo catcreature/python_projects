@@ -11,4 +11,6 @@ A list of simple python projects which anyone can do and understand easily
 
 3- Hangman game in python 
 
+4- 21 Number game in Python
+
 8- FLAMES game
