@@ -13,4 +13,6 @@ A list of simple python projects which anyone can do and understand easily
 
 4- 21 Number game in Python
 
+5- Rock Paper Scissor game
+
 8- FLAMES game
