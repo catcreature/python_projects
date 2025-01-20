@@ -15,4 +15,6 @@ A list of simple python projects which anyone can do and understand easily
 
 5- Rock Paper Scissor game
 
+6- Idetntical PDF documents checker
+
 8- FLAMES game
